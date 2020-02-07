@@ -53,6 +53,7 @@ Also, I used my credentials.
   
 ### Here, 2 tests passed while 2 of them failed.
 In registration with existing email we expected error message like in TC register with invalid email, but that didn't happend. We could proceed with the registration procedure. Error message or stopping user carry on with registration would be good.
+Note: I didn't continue with registration procedure to the end because it's expected to be stopped at start if email is already used.
 
 Registration with long password also failed. I used 143 characters for password. It's nonsense to use that long password.
 
