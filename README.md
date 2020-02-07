@@ -58,4 +58,4 @@ Registration with long password also failed. I used 143 characters for password.
 
 ---
 
-Full report is avaliable at [Report](../SeleniumTestProject/koscak_projekt/target/surefire-reports/index.html).
+Full report is avaliable at [Report](https://github.com/kristijankoscak/SeleniumTestProject/blob/master/koscak_projekt/target/surefire-reports/index.html).
