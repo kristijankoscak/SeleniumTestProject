@@ -73,7 +73,7 @@ public class LoginTest {
     }
     @Test
     public void LoginWithInvalidPassword() throws InterruptedException {
-        loginPage.EnterUsernameAndPassword("kristijan.koscak16@gmail.com", "test123");
+        loginPage.EnterUsernameAndPassword("kristijan.koscak16@gmail.com", "test123test");
         loginPage.SubmitLogin();
         Thread.sleep(3000);
         Assert.assertEquals(loginPage.GetPasswordErrorMessage().isEmpty(),false );
