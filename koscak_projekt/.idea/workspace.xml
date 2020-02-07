@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a76ce17-37c3-44d0-961e-5ef5a3b8a639" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wz41vDEvDQQmMzlK2uaJeEEfYC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Kristijan/Desktop/DRC/I semestar/Metode i tehnike testiranja programske podrške/koscak_projekt/testng.xml">
+    <configuration name="C:/Users/Kristijan/Desktop/DRC/I semestar/Metode i tehnike testiranja programske podrške/koscak_projekt/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="koscak_projekt" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" nameIsGenerated="true">
+      <module name="koscak_projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.LoginTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="TestNG" nameIsGenerated="true">
+      <module name="koscak_projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.RegisterTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.RegisterTest" />
+      <item itemvalue="TestNG.C:/Users/Kristijan/Desktop/DRC/I semestar/Metode i tehnike testiranja programske podrške/koscak_projekt/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Kristijan/Desktop/DRC/I semestar/Metode i tehnike testiranja programske podrške/koscak_projekt/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a76ce17-37c3-44d0-961e-5ef5a3b8a639" name="Default Changelist" comment="" />
+      <created>1580138877871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580138877871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="78" key="#InformationVisibilityTest" timestamp="1581083356415">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="78" key="#InformationVisibilityTest/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581083356415" />
+    <state x="509" y="78" key="#LoginTest" timestamp="1580162064411">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="78" key="#LoginTest/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1580162064411" />
+    <state x="509" y="78" key="#RegisterTest" timestamp="1580145878675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="78" key="#RegisterTest/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1580145878675" />
+    <state x="509" y="78" key="#SearchTest" timestamp="1581077470389">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="78" key="#SearchTest/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581077470389" />
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581088551032">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581088551032" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1580141299167">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1580141299167" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1581090750121">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090750121" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1581090750121">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090750121" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1581090750121">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090750121" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1581090750121">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090750121" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1581090744554">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090744554" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1581090744554">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090744554" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1581090744554">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090744554" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1581090744554">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090744554" />
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog" timestamp="1581086940413">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="86" key="Maven.ArtifactSearchDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581086940413" />
+    <state x="301" y="11" key="SettingsEditor" timestamp="1581090172446">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="11" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581090172446" />
+    <state x="182" y="126" key="new project wizard" timestamp="1581089602444">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="126" key="new project wizard/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581089602444" />
+    <state x="392" y="90" key="scopes" timestamp="1580145302497">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="90" key="scopes/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1580145302497" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581085185190">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1581085185190" />
+  </component>
+</project>
